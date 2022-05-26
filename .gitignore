@@ -1,0 +1,8 @@
+node_modules
+
+flatten.txt
+
+#Hardhat files
+cache
+artifacts
+dist
